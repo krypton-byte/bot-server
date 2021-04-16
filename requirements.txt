@@ -1,0 +1,17 @@
+asgiref==3.3.1
+bidict==0.21.2
+certifi==2020.12.5
+chardet==4.0.0
+Django==3.1.4
+dnspython==1.16.0
+eventlet==0.30.0
+greenlet==0.4.17
+idna==2.10
+netifaces==0.10.6
+python-socketio
+pytz==2020.5
+requests==2.25.1
+six==1.15.0
+sqlparse==0.4.1
+urllib3==1.26.2
+psutil
