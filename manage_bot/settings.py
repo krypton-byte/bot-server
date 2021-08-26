@@ -81,17 +81,6 @@ DATABASES = {
     }
 }
 
-"""DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME':'kitsunea_botDB',
-        'USER':'kitsunea',
-        'PASSWORD':'#99aX1gD0EAa-a',
-        'HOST':'kitsune.asia',
-        'PORT':'3306'
-    }
-}"""
-
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators
 
